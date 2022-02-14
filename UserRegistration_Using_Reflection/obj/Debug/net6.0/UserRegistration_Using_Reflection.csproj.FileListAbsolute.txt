@@ -1,0 +1,15 @@
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\obj\Debug\net6.0\UserRegistration_Using_Reflection.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\obj\Debug\net6.0\UserRegistration_Using_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\obj\Debug\net6.0\UserRegistration_Using_Reflection.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\obj\Debug\net6.0\UserRegistration_Using_Reflection.AssemblyInfo.cs
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\obj\Debug\net6.0\UserRegistration_Using_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\bin\Debug\net6.0\UserRegistration_Using_Reflection.exe
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\bin\Debug\net6.0\UserRegistration_Using_Reflection.deps.json
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\bin\Debug\net6.0\UserRegistration_Using_Reflection.runtimeconfig.json
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\bin\Debug\net6.0\UserRegistration_Using_Reflection.dll
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\bin\Debug\net6.0\ref\UserRegistration_Using_Reflection.dll
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\bin\Debug\net6.0\UserRegistration_Using_Reflection.pdb
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\obj\Debug\net6.0\UserRegistration_Using_Reflection.dll
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\obj\Debug\net6.0\ref\UserRegistration_Using_Reflection.dll
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\obj\Debug\net6.0\UserRegistration_Using_Reflection.pdb
+C:\Users\prati\source\repos\UserRegistration_Using_Reflection\UserRegistration_Using_Reflection\obj\Debug\net6.0\UserRegistration_Using_Reflection.genruntimeconfig.cache
